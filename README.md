@@ -1,10 +1,6 @@
-# React TypeScript Starter Pack
+REACT-TODO-WITH-API
 
-To use this template click `Use this template`
+Technologies: React, Typescript, HTML, SCSS, REST API
 
 
-### Available Scripts
-
-`Deploy` - available to deploy your application to gh-pages
-
-`SCSS Preprocessor` - available to write your styles with modern style language
+[DEMO](https://tetyanabukoros.github.io/react-todo-with-api/)
