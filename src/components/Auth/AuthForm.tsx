@@ -1,4 +1,3 @@
-/* eslint-disable jsx-a11y/label-has-associated-control */
 import classNames from 'classnames';
 import React, { useEffect, useState } from 'react';
 import { createUser, getUserByEmail } from '../../api/users';

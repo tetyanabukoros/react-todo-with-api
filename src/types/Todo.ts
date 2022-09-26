@@ -1,4 +1,3 @@
-/* eslint-disable no-shadow */
 export interface Todo {
   id: number;
   userId: number;
